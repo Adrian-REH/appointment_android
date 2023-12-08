@@ -1,0 +1,47 @@
+{
+  "result": [
+    {
+      "_id": "63ef0b052a8d7fc1f582dda4",
+      "fecha": "18022023",
+      "hora": "09:00",
+      "coment": "",
+      "specialty": "Odontologia",
+      "patient": "639e5b3678539b79cd8dfbe1",
+      "medical": "639e34145bb5f9cceeaa8a6a",
+      "profession": "corriente 121",
+      "files": "63ef0ac82a8d7fc1f582dda2",
+      "price": "",
+      "createdAt": "2023-02-17T05:05:09.445Z",
+      "updatedAt": "2023-02-17T18:56:31.004Z"
+    },
+    {
+      "_id": "63ef0c002a8d7fc1f582de2c",
+      "fecha": "20022023",
+      "hora": "09:15",
+      "coment": "",
+      "specialty": "Odontologia",
+      "patient": "639e5b3678539b79cd8dfbe1",
+      "medical": "639e34145bb5f9cceeaa8a6a",
+      "profession": "corriente 121",
+      "files": "63ef0beb2a8d7fc1f582de2a",
+      "price": "",
+      "createdAt": "2023-02-17T05:09:20.013Z",
+      "updatedAt": "2023-02-17T18:56:54.267Z"
+    },
+    {
+      "_id": "63ef9f83af0d549f0faa3034",
+      "fecha": "19022023",
+      "hora": "09:15",
+      "coment": "",
+      "specialty": "Odontologia",
+      "patient": "639e5b3678539b79cd8dfbe1",
+      "medical": "63e98c3b9159d413432d42ec",
+      "profession": "corriente 121",
+      "files": "63ef9f7aaf0d549f0faa3032",
+      "price": "",
+      "createdAt": "2023-02-17T15:38:43.880Z",
+      "updatedAt": "2023-02-17T19:30:27.716Z"
+    }
+  ],
+  "info": ""
+}
